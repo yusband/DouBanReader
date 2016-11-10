@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_625e4901adb9b832d4195f7b7d8176f8fdcc6bb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_1d3c0509328606728ecac928d21a4a26caab6564\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_68de82d61f3fdeab50ba38b2ebf8921bc3a646e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_8513ad6409d82fd2b1c40a8ce72a333514cec110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ca0d1a6fce36a68e406d68e12033d607da97ed78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_962744c3e1913193edc87140fd4de1798616d664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_aca31f44abdce0cf74940def3073182c27a68012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9beb7213d1de204886a294ce989f8b48b8370ea6">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_80cb7a52d1c45718b1d744fb6ff247691c93b2b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_e7eeac00866e2059a8547fda607f89207f5b6ca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_ffd1d8868025e80e592d79c22b79436ce1100f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_2428dbd5eabf65ae69bc01abd6e4b72d08e545aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ab7f22fbde947953f3b6e25bf04c0fdf16d1e055\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_b51b4d6972e0344b460308fe05c74567b2939a7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.1\645f1ad2f6f4cbad1cde4c483eae71e4051be6ef\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.10.1_2a86fbfc876000034a1d2d14504e24f8dc81a9df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_f529b483b9d49ac6f670a71811b7ae3176d6046f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ec91aa3d6a3a98676623f05faa998b4e48ee1d5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_8e59c89058455a94c2f6e0c4ceb9433a63a4ea6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_2260cb21d8fdacb3dbbfd523db8bc62bbebb3b0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_adc590bbc5c861b2f4a38c1299f41ffbfdb6b54d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_eb3b247f50edf24d49052b91c8e63d4355032de6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\GIThub\DouBanReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b3f2b64d1a26d8cfb2d2e8c2fe5b721ad125517e">
+        <dex dex="H:\GIThub\DouBanReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b1248e7c07d8d341496c7a520d8278aa743df5ff\classes.dex" />
+    </item>
+
+</items>
